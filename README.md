@@ -6,6 +6,8 @@
 
 A Flutter widget for rendering HTML and CSS as Flutter widgets.
 
+This Fork is based on the original one, but removing some dependencies related to video and images. So, this package should be used for text only.
+
 <table>
   <tr>
     <td align="center">Screenshot 1</td>
